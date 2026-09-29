@@ -1,0 +1,37 @@
+========================================
+  OCEANAMI - HUONG DAN DUNG APP
+========================================
+
+A. CAI LAN DAU
+   1. Cai Node.js tai https://nodejs.org (ban LTS)
+   2. Giai nen file zip ra 1 thu muc
+   3. Bam 2 lan vao file: 1-CAI-DAT.bat
+   4. Cho chay xong (co chu CAI DAT XONG)
+
+B. MOI LAN DUNG
+   1. Bam 2 lan: 2-CHAY-APP.bat
+   2. Mo Chrome/Edge: http://localhost:3000
+   3. Dang nhap dung tai khoan (xem bang ben duoi)
+   4. Xong viec: dong cua so den (cmd)
+
+C. TAI KHOAN MAU
+   bep / bep123          = Bep dat hang
+   pur / pur123          = Thu mua
+   kho / kho123          = Ke toan kho nhap so thuc nhan
+   giamdoc / gd123       = Giam doc duyet
+   admin / admin123      = Quan tri + danh muc
+
+D. XUAT FILE VAO MISA
+   - Dang nhap kho hoac pur
+   - Tab Nhap kho / Lich su NK
+   - Bam "Excel MISA" hoac "Xuat tat ca -> MISA"
+   - Mo file .csv bang Excel, kiem tra, import AMIS
+
+E. BAO CAO
+   - Dang nhap pur
+   - Tab Bao cao
+   - 1 Tong nhap thang | 2 Mua theo BP | 3 PO chua giao du
+
+F. SUA TEN HANG / XOA TRUNG
+   - pur hoac admin -> Master Data -> Ma hang
+   - Bam but chi de sua, thung rac de xoa
